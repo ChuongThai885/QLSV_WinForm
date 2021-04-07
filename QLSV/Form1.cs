@@ -123,7 +123,7 @@ namespace QLSV
             } 
         }
 
-        private void buttonEdit_Click(object sender, EventArgs e)
+        private void buttonDelete_Click(object sender, EventArgs e)
         {
             DataGridViewRow r = DanhSachSV.CurrentRow;
             if (r != null)

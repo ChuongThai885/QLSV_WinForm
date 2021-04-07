@@ -40,7 +40,7 @@ namespace QLSV
             this.butEdit = new System.Windows.Forms.Button();
             this.butSort = new System.Windows.Forms.Button();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.buttonEdit = new System.Windows.Forms.Button();
+            this.buttonDelete = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DanhSachSV)).BeginInit();
             this.SuspendLayout();
@@ -152,22 +152,22 @@ namespace QLSV
             this.comboBox2.Size = new System.Drawing.Size(121, 24);
             this.comboBox2.TabIndex = 9;
             // 
-            // buttonEdit
+            // buttonDelete
             // 
-            this.buttonEdit.Location = new System.Drawing.Point(396, 388);
-            this.buttonEdit.Name = "buttonEdit";
-            this.buttonEdit.Size = new System.Drawing.Size(75, 23);
-            this.buttonEdit.TabIndex = 10;
-            this.buttonEdit.Text = "Delete";
-            this.buttonEdit.UseVisualStyleBackColor = true;
-            this.buttonEdit.Click += new System.EventHandler(this.buttonEdit_Click);
+            this.buttonDelete.Location = new System.Drawing.Point(396, 388);
+            this.buttonDelete.Name = "buttonDelete";
+            this.buttonDelete.Size = new System.Drawing.Size(75, 23);
+            this.buttonDelete.TabIndex = 10;
+            this.buttonDelete.Text = "Delete";
+            this.buttonDelete.UseVisualStyleBackColor = true;
+            this.buttonDelete.Click += new System.EventHandler(this.buttonDelete_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(805, 440);
-            this.Controls.Add(this.buttonEdit);
+            this.Controls.Add(this.buttonDelete);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.butSort);
             this.Controls.Add(this.butEdit);
@@ -200,7 +200,7 @@ namespace QLSV
         private System.Windows.Forms.Button butEdit;
         private System.Windows.Forms.Button butSort;
         private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.Button buttonEdit;
+        private System.Windows.Forms.Button buttonDelete;
     }
 }
 
