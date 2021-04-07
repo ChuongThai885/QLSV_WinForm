@@ -1,0 +1,11 @@
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\learn.NET\Ex\BT_QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
